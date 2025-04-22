@@ -1,5 +1,8 @@
 {
   "compilerOptions": {
+    "types": [
+      "nativewind/types"
+    ],
     "target": "ES2021",
     "module": "esnext",
     "jsx": "react-jsx",
